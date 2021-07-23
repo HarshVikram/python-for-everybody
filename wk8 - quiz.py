@@ -39,16 +39,16 @@ banana
 Banana
 B
 
-Answer: othing would print - the program fails with a traceback
+Answer: Nothing would print - the program fails with a traceback
 
 Question 5
 Which of the following Python statements would print out the length of a list stored in the variable data?
-print data.length()
-print len(data)
-print data.length
-print strlen(data)
-print length(data)
-print data.Len
+print(data.length())
+print(len(data))
+print(data.length)
+print(strlen(data))
+print(length(data))
+print(data.Len)
 
 Answer: print len(data)
 
